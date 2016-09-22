@@ -93,15 +93,36 @@
 ### AUTOMATISATION
 
 ### Une expérience unique
--Design culinaire: Bompass&parr: levure de la chaise de Roald Dhal
--disque chocolat Julie Rotthahn
--imprimante 3D
+
+#### Design culinaire: Bompass&parr: 
+-expérience autour de l'aliment comme objet de jeu
+-expériences 
+-levure de la chaise de Roald Dhal
+
+
+####disque chocolat Julie Rotthahn
+-tous les sens mis en eveil
+-disques en ecoute et performance en live
+-emotionnel et culinaire
+
+####imprimante 3D
+-purée ou aliment liquide
+-modelisation à la forme choisie
+-creativité, cuisine molleculaire
 
 ### Collaboration vs coopération
 
 ### Collaboration culinaire
--jardins collectifs
--amap
+
+#### jardins collectifs
+-principe du jardin
+-exemple de ville angleterre
+-bombes de graines
+
+#### amap
+-producteur et acheteur ensemble décident
+-toute la récolte même les moches
+- supermarchés collaboratifs: la cagette
 
 ### INCUBATEUR
 
