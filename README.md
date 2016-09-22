@@ -76,6 +76,18 @@
 
 ### ÉVOLUTION
 
+#### Darwin
+- Idée de base => Sélection naturelle, compétition
+- Critères de sélection on changés
+- Diversité comme richesse
+
+#### Hawkin
+- Se priver de la diversité
+- Est-ce que la compétition est bien adaptée ?
+- Agilité 1 reste du monde 0
+
+
+
 ### ÉDUCATION
 
 ### AUTOMATISATION
@@ -91,22 +103,17 @@
 -jardins collectifs
 -amap
 
+### DÉVELOPPEURS ADAPTÉS
 
+### PAIRMUTATION
 
-
-### Éducation
+### TIERS LIEUX
 
 ### La permaculture
 
 ### Numérique
 
-### Les développeurs un temps d'avance
-
-### Drachmophobie
-
-### Du difficile au complexe
-
-### Nouveaux travailleurs
+### L'organisation Agile
 -
 -
 -
