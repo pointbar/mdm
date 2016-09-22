@@ -87,16 +87,28 @@
 -Bienvenue à ma table: partage culinaire et couchsurfing
 -la belle verte: restaurant hautement qualitatif
 
-### Collaboration vs coopération
+### COLLABORATION
 
 ### Collaboration culinaire
 -jardins collectifs
 -amap
 -cuisine moléculaire: Thierry Marx et Raphaël Haumont
 
+### INCUBATEUR
 
+### COMMUNAUTÉS
 
-### Éducation
+### DU DIFFICILE AU COMPLEXE
+
+### 168H
+
+### DRACHMOPHOBIE
+
+### AGILITE
+
+### PAIRMUTATION
+
+### TIERS LIEUX
 
 ### La permaculture
 
@@ -104,18 +116,12 @@
 
 ### Les développeurs un temps d'avance
 
-### Drachmophobie
-
-### Du difficile au complexe
-
-### Nouveaux travailleurs
--
--
--
-
 ### L'organisation Agile
 -
 -
 -
+
+
+
 
 
