@@ -81,34 +81,40 @@
 ### AUTOMATISATION
 
 ### Une expérience unique
--Design culinaire: Julie Rottham spectacle "Empreintes"
+-Design culinaire: -Julie Rottham spectacle "Empreintes"
+										-Bompass&parr: levure de la chaise de Roald Dhal
+
 -Bienvenue à ma table: partage culinaire et couchsurfing
 -la belle verte: restaurant hautement qualitatif
 
-### Collaboration vs coopération
+### COLLABORATION
 
 ### Collaboration culinaire
 -jardins collectifs
+-amap
 -cuisine moléculaire: Thierry Marx et Raphaël Haumont
 
+### INCUBATEUR
 
-### Incubateur
+### COMMUNAUTÉS
 
-### Communautés
+### DU DIFFICILE AU COMPLEXE
 
-### Du difficile au complexe
+### 168H
 
-### 168h
+### DRACHMOPHOBIE
 
-### La pairmutation
+### AGILITE
+
+### PAIRMUTATION
+
+### TIERS LIEUX
 
 ### La permaculture
 
 ### Numérique
 
 ### Les développeurs un temps d'avance
-
-### Drachmophobie
 
 ### L'organisation Agile
 -
