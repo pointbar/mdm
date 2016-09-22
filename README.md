@@ -80,15 +80,25 @@
 
 ### AUTOMATISATION
 
-
+### Une expérience unique
+-Design culinaire: Julie Rottham spectacle "Empreintes"
+-Bienvenue à ma table: partage culinaire et couchsurfing
+-la belle verte: restaurant hautement qualitatif
 
 ### Collaboration vs coopération
 
+### Collaboration culinaire
+-jardins collectifs
+-cuisine moléculaire: Thierry Marx et Raphaël Haumont
+
+
 ### Éducation
+
+### La permaculture
 
 ### Numérique
 
-### Les développeur un temps d'avance
+### Les développeurs un temps d'avance
 
 ### Drachmophobie
 
