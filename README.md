@@ -103,6 +103,18 @@
 -jardins collectifs
 -amap
 
+### INCUBATEUR
+
+### COMMUNAUTÉS
+
+### DU DIFFICILE AU COMPLEXE
+
+### 168H
+
+### DRACHMOPHOBIE
+
+### AGILITE
+
 ### DÉVELOPPEURS ADAPTÉS
 
 ### PAIRMUTATION
@@ -112,11 +124,6 @@
 ### La permaculture
 
 ### Numérique
-
-### L'organisation Agile
--
--
--
 
 ### L'organisation Agile
 -
