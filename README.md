@@ -92,7 +92,15 @@
 -cuisine moléculaire: Thierry Marx et Raphaël Haumont
 
 
-### Éducation
+### Incubateur
+
+### Communautés
+
+### Du difficile au complexe
+
+### 168h
+
+### La pairmutation
 
 ### La permaculture
 
@@ -102,16 +110,12 @@
 
 ### Drachmophobie
 
-### Du difficile au complexe
-
-### Nouveaux travailleurs
--
--
--
-
 ### L'organisation Agile
 -
 -
 -
+
+
+
 
 
