@@ -13,6 +13,7 @@
 
 ### Collaboration vs coopération
 
+### DÉVELOPPEURS ADAPTÉS
 
 ### COMMUNAUTÉS
 
@@ -22,9 +23,9 @@
 
 ### DRACHMOPHOBIE
 
-### AGILITE
+### PHAGOCYTHOSE
 
-### DÉVELOPPEURS ADAPTÉS
+### AGILITE
 
 ### PAIRMUTATION
 
@@ -45,9 +46,6 @@
 
 ## Ressources
 
-Ressources
------
-
 * http://www.culturemobile.net/visions/bernard-stiegler-emploi-est-mort-vive-travail
 * https://www.youtube.com/watch?v=28DSIPmQ_Pw
 * http://www.monde-diplomatique.fr/2009/05/LEPAGE/17113
@@ -60,4 +58,5 @@ Ressources
 * http://www.labellevertebio.com/nosEngagements.php?lang=fr
 * http://isabelledelyon.canalblog.com/archives/2009/05/04/13608303.html
 * https://books.google.fr/books?id=EJwlDAAAQBAJ&pg=PA77&lpg=PA77&dq=%22instaurer+des+%C3%A9chelles+de+priorit%C3%A9%22+dupagne&source=bl&ots=38RSCyd1nv&sig=pSt1Gyu7w9WAbKMLtitgdDdrofQ&hl=fr&sa=X&ved=0ahUKEwjt4P2PlJzPAhWNF8AKHV86CxcQ6AEIHDAA#v=onepage&q=%22instaurer%20des%20%C3%A9chelles%20de%20priorit%C3%A9%22%20dupagne&f=false
+* https://fr.wikipedia.org/wiki/Liquidateur
 
