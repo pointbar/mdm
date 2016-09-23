@@ -1,130 +1,18 @@
 # MONDE DE MERDE
 
 ## Conférences
-
 - Wonderful - Air France - Thalès - 1001 Pharmacies
 - Alter'Incub
 - SudWeb Bordeaux
+- Agile Tour Pays-Basque
+
+## Avec
+- Bénédicte Lambert
 
 ## Slides
 
-### PRESENTATION
-
-#### Ce flim
-- Le grand détournement
-- Conf. startup - gd groupes - SudWeb
-- Quizz 
-
-### ANCIEN MONDE
-
-#### Chaplin
-- Présentation du monde industriel
-- Une culture familière
-- 1936 carricature - pas en guerre contre
-
-#### Taylor
-- Culte de la personnalité
-- Découper le travail en taches unitaires
-- "Faire cesser les flâneries"
-
-#### Ford
-- Application de Taylor
-- Modèle Keynésien : "les salaires sont indexés sur les gains de productivité"
-- Marketing quantitatif : "Vous pouvez choisir la couleur du moment quelle est noire"
-
-#### Bernays
-- Réclame, publicité => Marketing
-- Tobaco
-- "L'ingénierie du consentement est l'essence même de la démocratie, la liberté de persuader et de suggérer."
-
-#### Raymond Loewy
-- LU - Shell - Lucky
-- Rendre le fonctionnel beau car : "La laideur se vend mal"
-- "La plus belle courbe, c’est celle des ventes !"
-
-#### Industrialisation
-- Culture impacte => Guerres industrielles
-- Ouvriers => exode rural
-- Culture quantitative, propagande marketing
-
-#### Frigo
-- Début de l'électroménager
-- Libère du temps - travail
-- On remplit le frigo => industrialisation de l'agriculture
-
-#### Boite de conserve
-- Pour l'armée, la marine
-- Conserver => produire en masse
-- Dure à imposer aux foyers
-
-#### Popeye
-- Pénuries de viande => Légumes
-- Marketinf => Force : Fer et Vitamine A
-- Diffusion de masse => TV et ciné
-
-### EXPLORATION
-
-#### Ouvriers 
-- Où sont les ouvriers ? Et le partis communiste
-- Vague d'automatisation
-- Qui fabrique les voitures, les frigos, ... ?
-
-### Exploration
-- Proposition d'exploration d'un nouveau terrain de jeu
-- Se débarrasser de nos croyances, de nos réflexes
-- Surtout ne pas supperposer
-
-### ÉVOLUTION
-
-#### Darwin
-- Idée de base => Sélection naturelle, compétition
-- Critères de sélection on changés
-- Diversité comme richesse
-
-#### Hawkin
-- Se priver de la diversité
-- Est-ce que la compétition est bien adaptée ?
-- Agilité 1 reste du monde 0
-
-
-
-### ÉDUCATION
-
-### AUTOMATISATION
-
-### Une expérience unique
-
-#### Design culinaire: Bompass&parr: 
--expérience autour de l'aliment comme objet de jeu
--expériences 
--levure de la chaise de Roald Dhal
-
-
-####disque chocolat Julie Rotthahn
--tous les sens mis en eveil
--disques en ecoute et performance en live
--emotionnel et culinaire
-
-####imprimante 3D
--purée ou aliment liquide
--modelisation à la forme choisie
--creativité, cuisine molleculaire
-
 ### Collaboration vs coopération
 
-### Collaboration culinaire
-
-#### jardins collectifs
--principe du jardin
--exemple de ville angleterre
--bombes de graines
-
-#### amap
--producteur et acheteur ensemble décident
--toute la récolte même les moches
-- supermarchés collaboratifs: la cagette
-
-### INCUBATEUR
 
 ### COMMUNAUTÉS
 
@@ -147,8 +35,29 @@
 ### Numérique
 
 ### L'organisation Agile
--
--
--
 
+### FORMATION
+ #### SCRUM
+ #### WalkinDev
+-
+-
+éducateurs
+
+## Ressources
+
+Ressources
+-----
+
+* http://www.culturemobile.net/visions/bernard-stiegler-emploi-est-mort-vive-travail
+* https://www.youtube.com/watch?v=28DSIPmQ_Pw
+* http://www.monde-diplomatique.fr/2009/05/LEPAGE/17113
+* Culture mon Q
+* http://www.sciencesetavenir.fr/sante/cerveau-et-psy/20160826.OBS6919/il-survit-a-l-amibe-devoreuse-de-cerveau-un-cas-rarissime.html
+* http://www.sciencesetavenir.fr/sante/cerveau-et-psy/20160909.OBS7789/6-regles-d-or-pour-que-votre-cerveau-continue-de-fabriquer-de-nouveaux-neurones.html
+* https://www.youtube.com/watch?v=_0aoOJ1BCaU
+* https://www.youtube.com/watch?v=soJHbOkqljU
+* http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/index-fra.php
+* http://www.labellevertebio.com/nosEngagements.php?lang=fr
+* http://isabelledelyon.canalblog.com/archives/2009/05/04/13608303.html
+* https://books.google.fr/books?id=EJwlDAAAQBAJ&pg=PA77&lpg=PA77&dq=%22instaurer+des+%C3%A9chelles+de+priorit%C3%A9%22+dupagne&source=bl&ots=38RSCyd1nv&sig=pSt1Gyu7w9WAbKMLtitgdDdrofQ&hl=fr&sa=X&ved=0ahUKEwjt4P2PlJzPAhWNF8AKHV86CxcQ6AEIHDAA#v=onepage&q=%22instaurer%20des%20%C3%A9chelles%20de%20priorit%C3%A9%22%20dupagne&f=false
 
